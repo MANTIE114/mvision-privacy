@@ -13,6 +13,21 @@
       "face": "https://i0.hdslb.com/bfs/face/8f6a614a48a3813d90da7a11894ae56a59396fcd.jpg"
     }
   ],
+  "followVideos": [
+    {
+      "cover": "https://i1.hdslb.com/bfs/face/fd3e2b4cb3e800e83480164feeca431e733f1247.jpg",
+      "upper":{
+          "mid": 397152737,
+          "name": "MVision",
+          "face": "https://i1.hdslb.com/bfs/face/fd3e2b4cb3e800e83480164feeca431e733f1247.jpg",
+      },
+      "id": 115854494794871,
+      "title": "MVision送祝福",
+      "intro": "🎉 Mvision祝大家新年快乐！
+愿新的一年里，每一次观影都精彩纷呈，每一个瞬间都温暖动人。
+感谢你与我们一起探索视觉的无限可能，2026，让我们继续用影像连接世界！",
+    }
+  ],
   "menuImages": [
     "https://mantie114.github.io/mvision-privacy/menuLogo1.png",
     "https://mantie114.github.io/mvision-privacy/menuLogo2.png",
