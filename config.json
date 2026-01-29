@@ -13,7 +13,7 @@
       "face": "https://i0.hdslb.com/bfs/face/8f6a614a48a3813d90da7a11894ae56a59396fcd.jpg"
     }
   ],
-  "followVideos": [
+  "followVideosx": [
     {
       "cover": "https://mantie114.github.io/mvision-privacy/bannerCovers/bannerCover1.png",
       "upper": {
@@ -39,7 +39,7 @@
       "intro": "🎉 新年快乐！感谢你选择MVision，让影像点亮每一天。\n\n🌟 在新的一年里，愿每一次观影都带来惊喜，每一帧画面都温暖心间。\n\n🥳 打开MVision，开启你的光影旅程，让2026充满精彩与感动！\n\n🎬 让我们一起发现更多故事，记录更多美好瞬间，每一天都像电影般精彩！"
     }
   ],
-  "menuImages": [
+  "menuImagesx": [
     "https://mantie114.github.io/mvision-privacy/menuImages/menuLogo1.png",
     "https://mantie114.github.io/mvision-privacy/menuImages/menuLogo2.png",
     "https://mantie114.github.io/mvision-privacy/menuImages/menuLogo3.png",
@@ -51,7 +51,7 @@
     "https://mantie114.github.io/mvision-privacy/menuImages/menuLogo9.png",
     "https://mantie114.github.io/mvision-privacy/menuImages/menuLogo10.png"
   ],
-  "coverImages": [
+  "coverImagesx": [
     "https://mantie114.github.io/mvision-privacy/coverImages/coverImage1.png",
     "https://mantie114.github.io/mvision-privacy/coverImages/coverImage2.png",
     "https://mantie114.github.io/mvision-privacy/coverImages/coverImage3.png",
