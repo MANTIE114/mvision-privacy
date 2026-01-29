@@ -1,40 +1,40 @@
 {
-	"LiveMids":[],
-	"isShowSpringFestival":1,
-	"followUsers":[
-	{
-		mid: 489412051,
-		name: "哔哩哔哩",
-		face: "https://i1.hdslb.com/bfs/face/fd3e2b4cb3e800e83480164feeca431e733f1247.jpg"
-	},
-	{
-		mid: 9617619,
-		name: "哔哩哔哩直播",
-		face: "https://i0.hdslb.com/bfs/face/8f6a614a48a3813d90da7a11894ae56a59396fcd.jpg"
-	},
-	],
-    "menuImages":[ 
-        "https://mantie114.github.io/mvision-privacy/menuLogo1.png",
-        "https://mantie114.github.io/mvision-privacy/menuLogo2.png",
-        "https://mantie114.github.io/mvision-privacy/menuLogo3.png",
-        "https://mantie114.github.io/mvision-privacy/menuLogo4.png",
-        "https://mantie114.github.io/mvision-privacy/menuLogo5.png",
-        "https://mantie114.github.io/mvision-privacy/menuLogo6.png",
-        "https://mantie114.github.io/mvision-privacy/menuLogo7.png",
-        "https://mantie114.github.io/mvision-privacy/menuLogo8.png",
-        "https://mantie114.github.io/mvision-privacy/menuLogo9.png",
-        "https://mantie114.github.io/mvision-privacy/menuLogo10.png"
-    ],
-    "coverImages":[ 
-        "https://mantie114.github.io/mvision-privacy/coverImage1.png",
-        "https://mantie114.github.io/mvision-privacy/coverImage2.png",
-        "https://mantie114.github.io/mvision-privacy/coverImage3.png",
-        "https://mantie114.github.io/mvision-privacy/coverImage4.png",
-        "https://mantie114.github.io/mvision-privacy/coverImage5.png",
-        "https://mantie114.github.io/mvision-privacy/coverImage6.png",
-        "https://mantie114.github.io/mvision-privacy/coverImage7.png",
-        "https://mantie114.github.io/mvision-privacy/coverImage8.png",
-        "https://mantie114.github.io/mvision-privacy/coverImage9.png",
-        "https://mantie114.github.io/mvision-privacy/coverImage10.png"
-    ]
+  "LiveMids": [],
+  "isShowSpringFestival": 1,
+  "followUsers": [
+    {
+      "mid": 489412051,
+      "name": "哔哩哔哩",
+      "face": "https://i1.hdslb.com/bfs/face/fd3e2b4cb3e800e83480164feeca431e733f1247.jpg"
+    },
+    {
+      "mid": 9617619,
+      "name": "哔哩哔哩直播",
+      "face": "https://i0.hdslb.com/bfs/face/8f6a614a48a3813d90da7a11894ae56a59396fcd.jpg"
+    }
+  ],
+  "menuImages": [
+    "https://mantie114.github.io/mvision-privacy/menuLogo1.png",
+    "https://mantie114.github.io/mvision-privacy/menuLogo2.png",
+    "https://mantie114.github.io/mvision-privacy/menuLogo3.png",
+    "https://mantie114.github.io/mvision-privacy/menuLogo4.png",
+    "https://mantie114.github.io/mvision-privacy/menuLogo5.png",
+    "https://mantie114.github.io/mvision-privacy/menuLogo6.png",
+    "https://mantie114.github.io/mvision-privacy/menuLogo7.png",
+    "https://mantie114.github.io/mvision-privacy/menuLogo8.png",
+    "https://mantie114.github.io/mvision-privacy/menuLogo9.png",
+    "https://mantie114.github.io/mvision-privacy/menuLogo10.png"
+  ],
+  "coverImages": [
+    "https://mantie114.github.io/mvision-privacy/coverImage1.png",
+    "https://mantie114.github.io/mvision-privacy/coverImage2.png",
+    "https://mantie114.github.io/mvision-privacy/coverImage3.png",
+    "https://mantie114.github.io/mvision-privacy/coverImage4.png",
+    "https://mantie114.github.io/mvision-privacy/coverImage5.png",
+    "https://mantie114.github.io/mvision-privacy/coverImage6.png",
+    "https://mantie114.github.io/mvision-privacy/coverImage7.png",
+    "https://mantie114.github.io/mvision-privacy/coverImage8.png",
+    "https://mantie114.github.io/mvision-privacy/coverImage9.png",
+    "https://mantie114.github.io/mvision-privacy/coverImage10.png"
+  ]
 }
