@@ -15,39 +15,50 @@
   ],
   "followVideos": [
     {
-      "cover": "https://mantie114.github.io/mvision-privacy/bannerCover1.png",
+      "cover": "https://mantie114.github.io/mvision-privacy/bannerCovers/bannerCover1.png",
       "upper": {
         "mid": 397152737,
         "name": "MVision",
-        "face": "https://i1.hdslb.com/bfs/face/fd3e2b4cb3e800e83480164feeca431e733f1247.jpg"
+        "face": "https://mantie114.github.io/mvision-privacy/logo.png"
       },
       "id": 115854494794871,
-      "title": "MVision送祝福",
+      "title": "🎉Mvision祝大家新年快乐！感谢你与我们一起探索视觉的无限可能🎉",
       "intro": "🎉 Mvision祝大家新年快乐！\n\n愿新的一年里，每一次观影都精彩纷呈，每一个瞬间都温暖动人。\n感谢你与我们一起探索视觉的无限可能，2026，让我们继续用影像连接世界！\n\n🌟 愿你在新的一年里，每天都有好心情，每次观看都充满惊喜！\n\n"
-    }
+    },
+    {
+      "cover": "https://mantie114.github.io/mvision-privacy/bannerCovers/bannerCover2.png",
+      "upper": {
+        "mid": 397152737,
+        "name": "MVision",
+        "face": "https://mantie114.github.io/mvision-privacy/logo.png"
+      },
+      "id": 115854494794871,
+      "title": "🎉Mvision祝大家新年快乐！感谢你与我们一起探索视觉的无限可能🎉",
+      "intro": "🎉 Mvision祝大家新年快乐！\n\n愿新的一年里，每一次观影都精彩纷呈，每一个瞬间都温暖动人。\n感谢你与我们一起探索视觉的无限可能，2026，让我们继续用影像连接世界！\n\n🌟 愿你在新的一年里，每天都有好心情，每次观看都充满惊喜！\n\n"
+    },
   ],
   "menuImages": [
-    "https://mantie114.github.io/mvision-privacy/menuLogo1.png",
-    "https://mantie114.github.io/mvision-privacy/menuLogo2.png",
-    "https://mantie114.github.io/mvision-privacy/menuLogo3.png",
-    "https://mantie114.github.io/mvision-privacy/menuLogo4.png",
-    "https://mantie114.github.io/mvision-privacy/menuLogo5.png",
-    "https://mantie114.github.io/mvision-privacy/menuLogo6.png",
-    "https://mantie114.github.io/mvision-privacy/menuLogo7.png",
-    "https://mantie114.github.io/mvision-privacy/menuLogo8.png",
-    "https://mantie114.github.io/mvision-privacy/menuLogo9.png",
-    "https://mantie114.github.io/mvision-privacy/menuLogo10.png"
+    "https://mantie114.github.io/mvision-privacy/menuImages/menuLogo1.png",
+    "https://mantie114.github.io/mvision-privacy/menuImages/menuLogo2.png",
+    "https://mantie114.github.io/mvision-privacy/menuImages/menuLogo3.png",
+    "https://mantie114.github.io/mvision-privacy/menuImages/menuLogo4.png",
+    "https://mantie114.github.io/mvision-privacy/menuImages/menuLogo5.png",
+    "https://mantie114.github.io/mvision-privacy/menuImages/menuLogo6.png",
+    "https://mantie114.github.io/mvision-privacy/menuImages/menuLogo7.png",
+    "https://mantie114.github.io/mvision-privacy/menuImages/menuLogo8.png",
+    "https://mantie114.github.io/mvision-privacy/menuImages/menuLogo9.png",
+    "https://mantie114.github.io/mvision-privacy/menuImages/menuLogo10.png"
   ],
   "coverImages": [
-    "https://mantie114.github.io/mvision-privacy/coverImage1.png",
-    "https://mantie114.github.io/mvision-privacy/coverImage2.png",
-    "https://mantie114.github.io/mvision-privacy/coverImage3.png",
-    "https://mantie114.github.io/mvision-privacy/coverImage4.png",
-    "https://mantie114.github.io/mvision-privacy/coverImage5.png",
-    "https://mantie114.github.io/mvision-privacy/coverImage6.png",
-    "https://mantie114.github.io/mvision-privacy/coverImage7.png",
-    "https://mantie114.github.io/mvision-privacy/coverImage8.png",
-    "https://mantie114.github.io/mvision-privacy/coverImage9.png",
-    "https://mantie114.github.io/mvision-privacy/coverImage10.png"
+    "https://mantie114.github.io/mvision-privacy/coverImages/coverImage1.png",
+    "https://mantie114.github.io/mvision-privacy/coverImages/coverImage2.png",
+    "https://mantie114.github.io/mvision-privacy/coverImages/coverImage3.png",
+    "https://mantie114.github.io/mvision-privacy/coverImages/coverImage4.png",
+    "https://mantie114.github.io/mvision-privacy/coverImages/coverImage5.png",
+    "https://mantie114.github.io/mvision-privacy/coverImages/coverImage6.png",
+    "https://mantie114.github.io/mvision-privacy/coverImages/coverImage7.png",
+    "https://mantie114.github.io/mvision-privacy/coverImages/coverImage8.png",
+    "https://mantie114.github.io/mvision-privacy/coverImages/coverImage9.png",
+    "https://mantie114.github.io/mvision-privacy/coverImages/coverImage10.png"
   ]
 }
