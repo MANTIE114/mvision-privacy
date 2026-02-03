@@ -3,16 +3,10 @@
   "isShowSpringFestival": 0,
   "backgroundImage": "https://mantie114.github.io/mvision-privacy/bannerCovers/bannerCover1.png",
   "mainBackgroundImage": [
-    "https://mantie114.github.io/mvision-privacy/menuImages/menuLogo1.png",
-    "https://mantie114.github.io/mvision-privacy/menuImages/menuLogo2.png",
-    "https://mantie114.github.io/mvision-privacy/menuImages/menuLogo3.png",
-    "https://mantie114.github.io/mvision-privacy/menuImages/menuLogo4.png",
-    "https://mantie114.github.io/mvision-privacy/menuImages/menuLogo5.png",
-    "https://mantie114.github.io/mvision-privacy/menuImages/menuLogo6.png",
-    "https://mantie114.github.io/mvision-privacy/menuImages/menuLogo7.png",
-    "https://mantie114.github.io/mvision-privacy/menuImages/menuLogo8.png",
-    "https://mantie114.github.io/mvision-privacy/menuImages/menuLogo9.png",
-    "https://mantie114.github.io/mvision-privacy/menuImages/menuLogo10.png"
+    "https://mantie114.github.io/mvision-privacy/bannerCovers/bannerCover1.png",
+    "https://mantie114.github.io/mvision-privacy/bannerCovers/bannerCover2.png",
+    "https://mantie114.github.io/mvision-privacy/bannerCovers/bannerCover3.png",
+    "https://mantie114.github.io/mvision-privacy/bannerCovers/bannerCover5.png"
   ],
   "followUsers": [
     {
