@@ -2,7 +2,18 @@
   "LiveMids": [],
   "isShowSpringFestival": 0,
   "backgroundImage": "https://mantie114.github.io/mvision-privacy/bannerCovers/bannerCover1.png",
-  "mainBackgroundImage": "https://mantie114.github.io/mvision-privacy/bgImage.png",
+  "mainBackgroundImage": [
+    "https://mantie114.github.io/mvision-privacy/menuImages/menuLogo1.png",
+    "https://mantie114.github.io/mvision-privacy/menuImages/menuLogo2.png",
+    "https://mantie114.github.io/mvision-privacy/menuImages/menuLogo3.png",
+    "https://mantie114.github.io/mvision-privacy/menuImages/menuLogo4.png",
+    "https://mantie114.github.io/mvision-privacy/menuImages/menuLogo5.png",
+    "https://mantie114.github.io/mvision-privacy/menuImages/menuLogo6.png",
+    "https://mantie114.github.io/mvision-privacy/menuImages/menuLogo7.png",
+    "https://mantie114.github.io/mvision-privacy/menuImages/menuLogo8.png",
+    "https://mantie114.github.io/mvision-privacy/menuImages/menuLogo9.png",
+    "https://mantie114.github.io/mvision-privacy/menuImages/menuLogo10.png"
+  ],
   "followUsers": [
     {
       "mid": 489412051,
@@ -24,7 +35,7 @@
         "face": "https://mantie114.github.io/mvision-privacy/logo.png"
       },
       "id": 115977555544028,
-      "isConfigFollow":true,
+      "isConfigFollow": true,
       "title": "🎉Mvision祝大家新年快乐！感谢你与我们一起探索视觉的无限可能🎉",
       "intro": "🎉 Mvision祝大家新年快乐！\n\n愿新的一年里，每一次观影都精彩纷呈，每一个瞬间都温暖动人。\n感谢你与我们一起探索视觉的无限可能，2026，让我们继续用影像连接世界！\n\n🌟 愿你在新的一年里，每天都有好心情，每次观看都充满惊喜！\n\n"
     },
