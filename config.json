@@ -64,10 +64,10 @@
   ],
   "redPacketProbability": 1,
   "redPackets": [
-    "https://mantie114.github.io/mvision-privacy/menuImages/redPack1.png",
-    "https://mantie114.github.io/mvision-privacy/menuImages/redPack2.png",
-    "https://mantie114.github.io/mvision-privacy/menuImages/redPack3.png",
-    "https://mantie114.github.io/mvision-privacy/menuImages/redPack4.png"
+    "https://mantie114.github.io/mvision-privacy/redPacks/redPack1.png",
+    "https://mantie114.github.io/mvision-privacy/redPacks/redPack2.png",
+    "https://mantie114.github.io/mvision-privacy/redPacks/redPack3.png",
+    "https://mantie114.github.io/mvision-privacy/redPacks/redPack4.png"
   ],
   "danmakus": [
     "MVision 无限进步",
