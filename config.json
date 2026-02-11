@@ -1,6 +1,6 @@
 {
-  "LiveMidsClose": [489412051, 9617619],
-  "isShowSpringFestivalClose": 1,
+  "LiveMids": [],
+  "isShowSpringFestival": 0
   "backgroundImage": "https://mantie114.github.io/mvision-privacy/bannerCovers/bannerCover1.png",
   "mainBackgroundImage": [
     "https://mantie114.github.io/mvision-privacy/bannerCoverss/bannerCover1.png",
@@ -13,7 +13,7 @@
     "https://mantie114.github.io/mvision-privacy/bannerCoverss/bannerCover9.png",
     "https://mantie114.github.io/mvision-privacy/bannerCoverss/bannerCover10.png"
   ],
-  "followUsersClose": [
+  "followUsers_close": [
     {
       "mid": 489412051,
       "name": "哔哩哔哩",
@@ -25,7 +25,7 @@
       "face": "https://i0.hdslb.com/bfs/face/8f6a614a48a3813d90da7a11894ae56a59396fcd.jpg"
     }
   ],
-  "followVideosClose": [
+  "followVideos_close": [
     {
       "cover": "https://mantie114.github.io/mvision-privacy/bannerCovers/bannerCover1.png",
       "upper": {
@@ -53,7 +53,7 @@
   ],
   "redPacketShowTime": 6,
   "redPacketProbability": 100,
-  "redPacketsClose": [
+  "redPackets_close": [
     "https://mantie114.github.io/mvision-privacy/redPacks/redPack1.png",
     "https://mantie114.github.io/mvision-privacy/redPacks/redPack2.png",
     "https://mantie114.github.io/mvision-privacy/redPacks/redPack3.png",
@@ -72,7 +72,7 @@
       "万事顺意",
       "平安喜乐"
   ],
-  "menuImagesClose": [
+  "menuImages_close": [
     "https://mantie114.github.io/mvision-privacy/menuImages/menuLogo1.png",
     "https://mantie114.github.io/mvision-privacy/menuImages/menuLogo2.png",
     "https://mantie114.github.io/mvision-privacy/menuImages/menuLogo3.png",
@@ -174,7 +174,7 @@
     "https://mantie114.github.io/mvision-privacy/menuImages/menuLogo99.png",
     "https://mantie114.github.io/mvision-privacy/menuImages/menuLogo100.png"
   ],
-  "coverImagesClose": [
+  "coverImages_close": [
     "https://mantie114.github.io/mvision-privacy/menuImages/menuLogo1.png"
   ]
 }
