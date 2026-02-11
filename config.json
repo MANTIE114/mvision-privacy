@@ -53,7 +53,7 @@
   ],
   "redPacketShowTime": 6,
   "redPacketProbability": 2,
-  "redPacket": [
+  "redPackets": [
     "https://mantie114.github.io/mvision-privacy/redPacks/redPack0.png"
   ],
   "redPackets_close": [
