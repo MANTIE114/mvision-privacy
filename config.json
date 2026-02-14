@@ -1,5 +1,7 @@
 {
-  "LiveMids": [],
+  "LiveMids": [
+    1152150487
+  ],
   "isShowSpringFestival": 1,
   "backgroundImage": "https://mantie114.github.io/mvision-privacy/bgImage1.png",
   "mainBackgroundImage_close": [
@@ -23,6 +25,11 @@
       "mid": 489412051,
       "name": "哔哩哔哩",
       "face": "https://i1.hdslb.com/bfs/face/fd3e2b4cb3e800e83480164feeca431e733f1247.jpg"
+    },
+    {
+      "mid": 1152150487,
+      "name": "河南卫视春晚",
+      "face": "https://i1.hdslb.com/bfs/face/a4d966012cb7146bc54232da195d3006cf2d3485.jpg"
     }
   ],
   "followVideos": [
