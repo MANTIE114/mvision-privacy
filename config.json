@@ -29,7 +29,7 @@
       "face": "https://i1.hdslb.com/bfs/face/fd3e2b4cb3e800e83480164feeca431e733f1247.jpg"
     }
   ],
-  "followVideos": [
+  "followVideosxxx": [
     {
       "cover": "https://mantie114.github.io/mvision-privacy/bannerCovers/bannerCover2.png",
       "upper": {
@@ -46,7 +46,7 @@
     }
   ],
   "redPacketShowTime": 6,
-  "redPacketProbability": 100,
+  "redPacketProbability": 2,
   "redPackets_close": [
     "https://mantie114.github.io/mvision-privacy/redPacks/redPack1.png",
     "https://mantie114.github.io/mvision-privacy/redPacks/redPack2.png",
