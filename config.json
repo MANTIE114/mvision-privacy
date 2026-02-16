@@ -30,22 +30,6 @@
   ],
   "followVideos": [
     {
-      "cover": "https://i2.hdslb.com/bfs/archive/07a5c318f48ec9429e5ed0a5496dc681ea7f0db2.jpg",
-      "upper": {
-        "mid": 397152737,
-        "name": "MVision",
-        "face": "https://mantie114.github.io/mvision-privacy/logo.png"
-      },
-      "id": 113882551029509,
-      "seasonId": 79829,
-      "epId": 1426719,
-      "isConfigFollow": true,
-      "title": "✨ 2025年中央广播电视总台春节联欢晚会 ✨",
-      "intro": "🎉MVision推送 新年快乐！感谢你选择MVision，让影像点亮每一天。\n\n🌟 在新的一年里，愿每一次观影都带来惊喜，每一帧画面都温暖心间。\n\n🥳 打开MVision，开启你的光影旅程，让2026充满精彩与感动！\n\n🎬 让我们一起发现更多故事，记录更多美好瞬间，每一天都像电影般精彩！"
-    }
-  ],
-  "followVideos_close": [
-    {
       "cover": "https://mantie114.github.io/mvision-privacy/bannerCovers/bannerCover2.png",
       "upper": {
         "mid": 397152737,
@@ -58,24 +42,10 @@
       "isConfigFollow": true,
       "title": "✨ 欢迎2026！MVision与您共度美好影像时光 ✨",
       "intro": "🎉MVision推送  新年快乐！感谢你选择MVision，让影像点亮每一天。\n\n🌟 在新的一年里，愿每一次观影都带来惊喜，每一帧画面都温暖心间。\n\n🥳 打开MVision，开启你的光影旅程，让2026充满精彩与感动！\n\n🎬 让我们一起发现更多故事，记录更多美好瞬间，每一天都像电影般精彩！"
-    },
-    {
-      "cover": "https://i2.hdslb.com/bfs/archive/07a5c318f48ec9429e5ed0a5496dc681ea7f0db2.jpg",
-      "upper": {
-        "mid": 397152737,
-        "name": "MVision",
-        "face": "https://mantie114.github.io/mvision-privacy/logo.png"
-      },
-      "id": 113882551029509,
-      "seasonId": 79829,
-      "epId": 1426719,
-      "isConfigFollow": true,
-      "title": "✨ 2025年中央广播电视总台春节联欢晚会 ✨",
-      "intro": "🎉MVision推送 新年快乐！感谢你选择MVision，让影像点亮每一天。\n\n🌟 在新的一年里，愿每一次观影都带来惊喜，每一帧画面都温暖心间。\n\n🥳 打开MVision，开启你的光影旅程，让2026充满精彩与感动！\n\n🎬 让我们一起发现更多故事，记录更多美好瞬间，每一天都像电影般精彩！"
     }
   ],
   "redPacketShowTime": 6,
-  "redPacketProbability": 2,
+  "redPacketProbability": 100,
   "redPackets_close": [
     "https://mantie114.github.io/mvision-privacy/redPacks/redPack1.png",
     "https://mantie114.github.io/mvision-privacy/redPacks/redPack2.png",
@@ -92,7 +62,7 @@
     "https://mantie114.github.io/mvision-privacy/redPacks/redPack13.png"
   ],
   "danmakus": [
-    "新年快乐 🧧",
+    "MVision 新年快乐 🧧",
     "MVision 陪你过年🧧",
     "这个春节有 MVision🧧",
     "万马踏青",
