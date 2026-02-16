@@ -1,5 +1,8 @@
 {
-  "LiveMids": [],
+  "LiveMids": [
+    501554611,
+    489412051
+  ],
   "isShowSpringFestival": 1,
   "backgroundImage": "https://mantie114.github.io/mvision-privacy/bgImage1.png",
   "mainBackgroundImage_close": [
