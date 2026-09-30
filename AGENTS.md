@@ -29,3 +29,23 @@
 - 🚫 **禁止自动提交**：任何代码修改完成后直接告知用户，由用户手动提交或明确要求后再进行 commit，严禁自动执行 `git commit` 或 `git push`。
 - 🕒 **最新分析同步时间**：2026-09-28 09:39:44
 <!-- REPOMIX_END -->
+
+---
+
+## 🧩 全矩阵公共组件库规范 (CommonComponents Integration)
+
+本项目作为全矩阵子模块，必须深度复用工作区根目录的公共组件库 `CommonComponents/`。
+新增特性或重构页面时，**必须首先读取公共组件开发指南，严禁重复造轮子**：
+👉 **[`CommonComponents 全矩阵公共组件库统一开发指南`](../CommonComponents/README.md)**
+
+### 现有核心公共组件（必须优先使用）：
+1. **`GlassBackground`** ([`CommonComponents/GlassBackground/GlassBackgroundView.swift`](../CommonComponents/GlassBackground/GlassBackgroundView.swift))
+   - 支持 `tvOS 26.0+` 系统原生 `UIGlassEffect` 液态高透玻璃、`visionOS` 空间计算原生玻璃与低版本三层超薄毛玻璃降级。
+   - 标准调用：`.glassPanelBackground(cornerRadius: 24, style: .automatic)` / `.glassBackGroundIfAvailable(...)`。
+2. **`MAppStore`** ([`CommonComponents/MAppStore/MAppStoreView.swift`](../CommonComponents/MAppStore/MAppStoreView.swift))
+   - Apple 黄金比例详情页、大图轮播、焦点闭环双向穿透与 TestFlight 专属弹窗。
+3. **`ActivationGuard`** ([`CommonComponents/ActivationGuard/`](../CommonComponents/ActivationGuard/))
+   - 本地 HTTP 免责激活防护与局域网服务。
+
+> **动态感知机制**：后续当公共组件库在 `CommonComponents/` 扩展新增播放器、网络或大屏 UI 组件时，请直接查阅上方 `CommonComponents/README.md` 指南进行无缝集成与代码平替。
+
